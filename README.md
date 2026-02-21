@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-Machine Learning Engineer focused on building end-to-end AI systems.  
-Experienced in developing, training, and deploying ML models using Python, PyTorch, and FastAPI.  
-Interested in scalable ML architectures and real-world AI applications.
-
+Aspiring Machine Learning Engineer with hands-on experience in designing end-to-end ML pipelines, model deployment, and API-based integration.
+Skilled in Python, PyTorch, scikit-learn, and building production-ready systems using FastAPI and Docker.
+Focused on applying AI to practical, high-impact problems.
 ---
 
 ## Tech Stack
