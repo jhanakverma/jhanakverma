@@ -29,8 +29,8 @@ Interested in scalable ML architectures and real-world AI applications.
 
 ## Featured Projects
 
-🔹 **AI-Based Resume Matching System** – NLP-based system that matches resumes to job descriptions using semantic similarity and ranking logic.
-🔹 **Face Detection & Recognition for Attendance management system** – Real-time face detection system using OpenCV and pre-trained deep learning models.   
+- **AI-Based Resume Matching System** – NLP-based system that matches resumes to job descriptions using semantic similarity and ranking logic.
+- **Face Detection & Recognition for Attendance management system** – Real-time face detection system using OpenCV and pre-trained deep learning models.   
 
 ---
 
